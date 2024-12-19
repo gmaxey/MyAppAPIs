@@ -15,3 +15,4 @@ jobs:
           version: "2.0.0-${{cloudbees.version}}"
           url: "docker.io/MyApp/MyAppAPIs:2.0.0-${{cloudbees.version}}"
           #digest: "sha256:5e0fa16466150c58f628dc6e6c40a9b07e3b3609d"
+          
