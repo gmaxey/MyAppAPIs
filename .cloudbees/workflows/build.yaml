@@ -10,4 +10,4 @@ jobs:
     uses: gmaxey/reusableworkflows/MyAppBuild.yaml
     with:
       artifactName: MyAppAPIs
-      baseVersion: 2.0.0
+      baseVersion: 2.0.5
